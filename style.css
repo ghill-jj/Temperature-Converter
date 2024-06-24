@@ -1,0 +1,54 @@
+body {
+  font-family: Helvetica, sans-serif;
+}
+/* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#container {
+  border: 2px solid black;
+  margin: 20px;
+  padding: 10px 20px;
+  width: 45%;
+  position: relative;
+  left: 150px;
+  top: 150px;
+  background-color: yellowgreen;
+}
+*/
+h1 {
+  color: hsl(180, 100%, 41%);
+}
+
+form {
+  border: 2px solid black;
+  width: 40%;
+  margin: auto;
+  text-align: center;
+}
+
+#degree {
+  width: 60px;
+  border: 2px solid hsl(0, 100%, 39%);
+  text-align: center;
+  border-radius: 20px;
+}
+label {
+  font-weight: bold;
+  color: hsla(0, 0%, 0%, 0.747);
+  font-size: 1.1em;
+}
+button {
+  background-color: hsl(119, 90%, 37%);
+  cursor: pointer;
+  padding: 6px;
+  font-size: 1.1em;
+  color: hsl(0, 0%, 100%);
+}
+button:hover {
+  color: black;
+  background-color: rgb(186, 34, 7);
+  font-size: 1.2em;
+}
